@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EA_AgreementDocumentation", "EA_AgreementDocumentation.dtproj", "{5ED43925-4F89-4F70-B86F-4A7F3058E93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED43925-4F89-4F70-B86F-4A7F3058E93D}.Development|Default.ActiveCfg = Development
+		{5ED43925-4F89-4F70-B86F-4A7F3058E93D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB157912-01F4-46B7-8C98-00EDF1058AE6}
+	EndGlobalSection
+EndGlobal
